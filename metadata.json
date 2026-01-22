@@ -1,0 +1,5 @@
+{
+  "name": "Data Analysis Dashboard",
+  "description": "A modern, dark-themed dashboard displaying regression analysis coefficients and visualization plots for a home assessment submission.",
+  "requestFramePermissions": []
+}
